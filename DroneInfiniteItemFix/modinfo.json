@@ -1,0 +1,7 @@
+{
+  "id": "droneinfiniteitemfix",
+  "name": "Drone Infinite Item Fix",
+  "author": "Aidanamite",
+  "description": "Fixes a bug in the drone's fast forward code that causes infinite generation of items",
+  "version": "1.0.0"
+}
